@@ -1,6 +1,6 @@
 # 소개 
 
-<img alt="깃헙 프로필 사진" src="https://avatars1.githubusercontent.com/u/23161645?s=460&v=4" width="200">
+<img alt="깃헙 프로필 사진" src="https://i9.ytimg.com/vi/niPFUHe5P2w/mqdefault.jpg?time=1586087748328&sqp=CJSOp_QF&rs=AOn4CLA_gkCrXYfGrr6VZCqlqWI2G9qtPQ" width="200">
 
 * 이재강
 * Email : ksdy234@gmail.com
