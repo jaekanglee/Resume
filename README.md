@@ -43,8 +43,6 @@
 
 
 ## 파비캐시 (파비) 
-<img src="https://lh3.googleusercontent.com/mf8qvy8zPoyyZClPgn0FEAp1dRPFonJN0ORLHF_iWXbQK96LHKrjgO1fWgeyNaL-MLI=s360-rw" alt="파비캐시로고" width=32/>
-
 <img src="https://rgo4.com/files/attach/images/411209/665/147/039/d644019dacdde6eff3f67abffcdb9c8e.jpg" alt=" 파비캐시1" width=150/><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b3/84/53/b384531d-396f-ab6b-9849-4eb4b49eeeea/pr_source.png/300x0w.png" alt=" 파비스타일1" width=150/><img src="https://blog.pabii.co.kr/wp-content/uploads/shoppinglist.png" alt=" 파비스타일1" width=350/>
 
 `앱의 주요 기능 명세`
@@ -65,8 +63,7 @@
 * 개발 기간 : 2019.03 ~ 2020.현재 - 서비스 중이며 지속적인 유지 보수 중
 * 현재 상태 : 서비스 중, 지속적인 추가 개발 및 안정화 중. 
 
-## 파비 스타일 (파비)<img src="https://lh3.googleusercontent.com/2aGHiFPD7KrUpWt1Z0Yz1hh2HUovxcivQSPbAK_uSAx6KSgW7kHQY48r-yQViJvdjlM6" alt="파비스타일 로고" width=32/>
-
+## 파비 스타일 (파비)
  <img src="https://some.pabii.co.kr/css/images/some/002_mockup.png" alt=" 파비스타일1" width=150/> <img src="https://image.winudf.com/v2/image1/a3IuY28ucGFiaWkuc29tZS5hb3Nfc2NyZWVuXzNfMTU4MjY5Nzk4MF8wNDE/screen-3.jpg?fakeurl=1&type=.jpg" alt="파비스타일2" width=150/> <img 
  src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/1e/85/35/1e853552-ca2b-18f6-3b87-339a0af74bff/pr_source.png/750x750bb.jpeg" alt="파비스타일3" width=150/>
  
@@ -85,8 +82,7 @@
 * 개발기간 : 2019.07 ~ 2020.01
 * 현재 상태 : 서비스 일시 중단 상태
 
-## 파비 펀 (파비)<img src="https://lh3.googleusercontent.com/mf8qvy8zPoyyZClPgn0FEAp1dRPFonJN0ORLHF_iWXbQK96LHKrjgO1fWgeyNaL-MLI=s360-rw" alt="파비캐시로고" width=32/>
-
+## 파비 펀 (파비)
 <img src="https://blog.pabii.co.kr/wp-content/uploads/Cash_FUN_Flow.png" width=450>
 
 `앱의 주요 기능 명세`
@@ -106,8 +102,7 @@
 * 현재 상태 : 서비스 중, 지속적인 추가 개발 및 안정화 중. 
 
   
-## 참참참 ( 개인 )<img src="https://lh3.googleusercontent.com/W1HfzwWUlJ2cDXN8XzS8ow0WurChuJcxhXklU14mhYiL-3PMLCHtdphNZbOio8eImkY" alt="참참참 로고" width=32/>
-
+## 참참참 ( 개인 )
 <img src="https://lh3.googleusercontent.com/e5FQ0llWiGX6qArc1r6FZHzTzwCsLd3IK8y9bfaw40ZKkSOLP02Mmu9nKNxRg4yk8Q=h150-rw" art="테이스트샵1" width=150><img src="https://lh3.googleusercontent.com/z-3gQBrymdHPCSIcslYuXnfEf9s3iLETmYj9f-tc1AgFKy0DMqqL_jnvMl4uQC3p7wE=h150-rw" art="테이스트샵1" width=150><img src="https://lh3.googleusercontent.com/u-czaudkYBIOFvImM0ykBc7kt-O6mfOPTEU1UcgHj_JEmy291CyMNQe4lhbetkmSqXYw=h150-rw" width=150>
 
 `앱의 주요 기능 명세`
@@ -121,8 +116,7 @@
 * 개발 기간 : 2018.12 ~ 2019. 03
 * 현재 상태 : 서비스 일시 정지 - 신규 기능 추가 및 기획의 문제로 일시 중지 상태
 
-## 테이스트샵 (테스스트샵)<img src="https://lh3.googleusercontent.com/proxy/S9l-XXs207_SLuDLCEOY7pFN6mLPK1-n0cIpzZvk-Z1wqEd17dEhUJDXem38yco4EjBzNCTdmGGuGRBG9pjCEtpa2Wmfq68gjl6ZSa9Kns6VNaxXPOoWDRw1uvUMoQpDdUytjbTpWsiMEdv0AV1Umody8Ziru-_GIQORKU678DQJIwj6BBw9lEZdyrJ4qlEWpxYoknaCNUZBG4Ef_wjj45Qh-V6NBgKTGsBEK3pel02mWl9tx2Cz4iBzJdLTtU1_6y0B-_ocmqJesGLfXgmPevlAz6uy9UGEICgfnyLtwr2L3w" alt="참참참 로고" width=32/>
-
+## 테이스트샵 (테스스트샵)
 <img src="https://img4.androidappsapk.co/HbMhXhfNZRSppHBr4GeB883Wm8OhbK2aeeNGX7vdhNVjUss-JD-Tm3OvWswi9q9AWEcT=h768" art="테이스트샵1" width=150><img src="https://imgf.androidappsapk.co/8Kn5s0_piRgmvzgX7BcQCJTiqoz4NhWyGRHwlL50tGPT94WUOJDt4RLMz5P5HEOKhc8=h768" art="테이스트샵2" width=150><img src="https://img7.androidappsapk.co/QIJzWJj6SHBUEeWtIBqSTHzuW8hfHSJC0lfRat7jU-KbfllerJOB8hqEHgjM8K83xSo=h300" art="테이스트샵3" width=150>
 
 `앱의 주요 기능 명세`
@@ -136,8 +130,7 @@
 * 개발 기간: 2018.06 ~ 2018.12
 * 현재 상태: 서비스 중단 -> Web을 주 타겟으로 사업 변경 
 * 
-## 캐시타운(인카코 커뮤니케이션즈) <img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX2ljb25fMTUxNjA4Njc0OV8wMzc/icon.png?w=170&fakeurl=1" alt="참참참 로고" width=32/>
-
+## 캐시타운(인카코 커뮤니케이션즈)
 <img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8wXzE1MTYwODY3NTJfMDA5/screen-0.jpg?fakeurl=1&type=.jpg" art="캐시타운1" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8yXzE1MTYwODY3NTVfMDc5/screen-2.jpg?fakeurl=1&type=.jpg" art="캐시타운2" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8xXzE1MTYwODY3NTVfMDcy/screen-1.jpg?fakeurl=1&type=.jpg" art="캐시타운3" width=150>
 
 `앱의 주요 기능 명세`
@@ -156,8 +149,7 @@
 * 개발 기간 : 2017.10 ~ 2018.02
 * 현재 상태 : 서비스 중단
 
-## 안녕,혼밥 ( 인카코 커뮤니케이션즈)<img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8wXzE1Mzk0MDI2NjNfMDI1/screen-0.jpg?h=355&fakeurl=1&type=.jpg" alt="참참참 로고" width=32/>
-
+## 안녕,혼밥 ( 인카코 커뮤니케이션즈)
 <img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8wXzE1Mzk0MDI2NjNfMDI1/screen-0.jpg?h=355&fakeurl=1&type=.jpg" art="안녕혼밥1" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8xXzE1Mzk0MDI2NjVfMDQx/screen-1.jpg?h=355&fakeurl=1&type=.jpg" art="안녕혼밥2" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8zXzE1Mzk0MDI2NzFfMDYw/screen-3.jpg?h=355&fakeurl=1&type=.jpg" art="강카 이미지1" width=150>
 
 `앱의 주요 기능 명세`
@@ -173,8 +165,7 @@
 * 개발 기간 : 2018.01 ~ 2018 ~02
 * 현재 상태 : 아마도 개발 단계에서 종료 된 것으로 보임
 
-## 강카 (개인)<img src="https://lh3.googleusercontent.com/eCk--IDC7ZQYsaZbBgSw6IlkwHyh7AE9s5a41oijcBMMOvvzdGoxUlwn5V0lySXBZA" alt="강카 로고" width=32/>
-
+## 강카 (개인)
 <img src="https://lh3.googleusercontent.com/QRVrX0Wo3tqyDF606v1uMxMP8YuuSvNREbyD3kg-qlBHgPZjOKpo2MHvKXoSXZ_Ao7U=h150-rw" art="강카 이미지1" width=150>
 <img src="https://lh3.googleusercontent.com/60UoGGyU3awcXtUMCfWgVW6mOByGDFXG6Z7iNyVMY3J20Of0jLbCAGwZRGv1laRfSNw=h150-rw" art="강카 이미지2" width=150>
 <img src="https://lh3.googleusercontent.com/v26gp4R0ow5JmpZU3y9UZ8lExWorbrPQA7S-7EL1AbGRdKgvLUYCofrsv5gzTLCtFyA=h150-rw" art="강카 이미지1" width=150>
