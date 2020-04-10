@@ -129,7 +129,7 @@
 	- 사용 패턴 : Mvc
 * 개발 기간: 2018.06 ~ 2018.12
 * 현재 상태: 서비스 중단 -> Web을 주 타겟으로 사업 변경 
-* 
+
 ## 캐시타운(인카코 커뮤니케이션즈)
 <img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8wXzE1MTYwODY3NTJfMDA5/screen-0.jpg?fakeurl=1&type=.jpg" art="캐시타운1" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8yXzE1MTYwODY3NTVfMDc5/screen-2.jpg?fakeurl=1&type=.jpg" art="캐시타운2" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8xXzE1MTYwODY3NTVfMDcy/screen-1.jpg?fakeurl=1&type=.jpg" art="캐시타운3" width=150>
 
@@ -166,10 +166,7 @@
 * 현재 상태 : 아마도 개발 단계에서 종료 된 것으로 보임
 
 ## 강카 (개인)
-<img src="https://lh3.googleusercontent.com/QRVrX0Wo3tqyDF606v1uMxMP8YuuSvNREbyD3kg-qlBHgPZjOKpo2MHvKXoSXZ_Ao7U=h150-rw" art="강카 이미지1" width=150>
-<img src="https://lh3.googleusercontent.com/60UoGGyU3awcXtUMCfWgVW6mOByGDFXG6Z7iNyVMY3J20Of0jLbCAGwZRGv1laRfSNw=h150-rw" art="강카 이미지2" width=150>
-<img src="https://lh3.googleusercontent.com/v26gp4R0ow5JmpZU3y9UZ8lExWorbrPQA7S-7EL1AbGRdKgvLUYCofrsv5gzTLCtFyA=h150-rw" art="강카 이미지1" width=150>
-<img src="https://lh3.googleusercontent.com/g6XcFxRDqgXe9lv1EsTwkgJ_hrNcVYVvS3tF2yp67ZQX6LUCk3NLakvrpl40RtJT3F3y=h150-rw" art="강카 이미지1" width=150>
+<img src="https://lh3.googleusercontent.com/QRVrX0Wo3tqyDF606v1uMxMP8YuuSvNREbyD3kg-qlBHgPZjOKpo2MHvKXoSXZ_Ao7U=h150-rw" art="강카 이미지1" width=150><img src="https://lh3.googleusercontent.com/60UoGGyU3awcXtUMCfWgVW6mOByGDFXG6Z7iNyVMY3J20Of0jLbCAGwZRGv1laRfSNw=h150-rw" art="강카 이미지2" width=150><img src="https://lh3.googleusercontent.com/v26gp4R0ow5JmpZU3y9UZ8lExWorbrPQA7S-7EL1AbGRdKgvLUYCofrsv5gzTLCtFyA=h150-rw" art="강카 이미지1" width=150><img src="https://lh3.googleusercontent.com/g6XcFxRDqgXe9lv1EsTwkgJ_hrNcVYVvS3tF2yp67ZQX6LUCk3NLakvrpl40RtJT3F3y=h150-rw" art="강카 이미지1" width=150>
 
 * 강원대학교 인근의 카페의 정보를 학생들에게 제공하는 앱 
 * 클라이언트 / 서버 동시 개발
