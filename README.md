@@ -57,11 +57,13 @@
 * 등
 * 사용 기술 
     - 언어 : Java, Kotlin
-    - 라이브러리 : Rx2(java,Kotlin,Android) , Retrofit2, aac, Workmanager, androidx, MpChart
+    - 라이브러리 : Rx2(java,Kotlin,Android) , Retrofit2, aac, Workmanager, androidx, MpChart,SMS retriever
 	Glide, 등
     - 사용 패턴 :Mvc + mvvm ( Mvvm ) 구조를 지향
 * 개발 기간 : 2019.03 ~ 2020.현재 - 서비스 중이며 지속적인 유지 보수 중
 * 현재 상태 : 서비스 중, 지속적인 추가 개발 및 안정화 중. 
+* 특이 사항: 
+- 부모앱을 통해 반드시 위성 앱들을 컨트롤 해야 하기 때문에, 위성앱과 부모앱간의 디펜던시가 형성 되었고  그로인해 모든 기능별 모듈화고려해개발함
 
 ## 파비 스타일 (파비)
  <img src="https://some.pabii.co.kr/css/images/some/002_mockup.png" alt=" 파비스타일1" width=150/> <img src="https://image.winudf.com/v2/image1/a3IuY28ucGFiaWkuc29tZS5hb3Nfc2NyZWVuXzNfMTU4MjY5Nzk4MF8wNDE/screen-3.jpg?fakeurl=1&type=.jpg" alt="파비스타일2" width=150/> <img 
@@ -81,6 +83,8 @@
     - 사용 패턴 : mvvm구조를 지향
 * 개발기간 : 2019.07 ~ 2020.01
 * 현재 상태 : 서비스 일시 중단 상태
+* 특이 사항: 
+- 실제 이미지를 다량으로 다루는 작업이다 보니, 이미지의 메모리 관련 이슈들이 많았었고, 커스텀 UI 개발이나, 비동기 기반으로 채팅을 구현해 데이터 싱크를 맞추는 작업이 굉장히 난해한 작업이었음. ( 서버와 클라이언트가 각자의 DB를 관리 하도록 함 ) 
 
 ## 파비 펀 (파비)
 <img src="https://blog.pabii.co.kr/wp-content/uploads/Cash_FUN_Flow.png" width=450>
@@ -100,6 +104,9 @@
     - 사용 패턴 : mvvm구조를 지향
 * 개발 기간 : 2020.01 ~ 현재
 * 현재 상태 : 서비스 중, 지속적인 추가 개발 및 안정화 중. 
+* 특이 상항: 
+- 이미지와 더불어 동영상들이 추가되며, 메모리 이슈가 어마어마하게 발생하기 시작함. 과정 중 리사이클러뷰의 버그를 발견했으나 아직 이슈트래킹에 보고된 사항이나 해결 방법이 없었기 때문에 계속해서 트러블 슈팅을 하며 자체적으로 커스텀 리사이클러뷰를 핸들링함. 
+- 2단(세로,가로) 구조의 모든 Holder가 동적으로 모든 미디어 허용가능한 뷰 였기 때문에 핸들링하는 데 상당히 어려움을 겪었음.
 
   
 ## 참참참 ( 개인 )
@@ -115,6 +122,8 @@
 	- 사용 패턴 : Mvvm 
 * 개발 기간 : 2018.12 ~ 2019. 03
 * 현재 상태 : 서비스 일시 정지 - 신규 기능 추가 및 기획의 문제로 일시 중지 상태
+* 특이사항: 
+- 처음 MVVM과 DI, AAC 등을 학습하기 위한 학습 곡선을 겪음.
 
 ## 테이스트샵 (테스스트샵)
 <img src="https://img4.androidappsapk.co/HbMhXhfNZRSppHBr4GeB883Wm8OhbK2aeeNGX7vdhNVjUss-JD-Tm3OvWswi9q9AWEcT=h768" art="테이스트샵1" width=150><img src="https://imgf.androidappsapk.co/8Kn5s0_piRgmvzgX7BcQCJTiqoz4NhWyGRHwlL50tGPT94WUOJDt4RLMz5P5HEOKhc8=h768" art="테이스트샵2" width=150><img src="https://img7.androidappsapk.co/QIJzWJj6SHBUEeWtIBqSTHzuW8hfHSJC0lfRat7jU-KbfllerJOB8hqEHgjM8K83xSo=h300" art="테이스트샵3" width=150>
@@ -129,6 +138,7 @@
 	- 사용 패턴 : Mvc
 * 개발 기간: 2018.06 ~ 2018.12
 * 현재 상태: 서비스 중단 -> Web을 주 타겟으로 사업 변경 
+* 특이 사항: 특정 페이지는 Data, View Layer가 모두 동적으로 변하는 것을 기획에서 요구했기 때문에, XML로 지정한 뷰를 사용하는 것이 아닌 오로지 모두 동적으로 코드로 뷰를 다루는 페이지를 만든 적이 있음.
 
 ## 캐시타운(인카코 커뮤니케이션즈)
 <img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8wXzE1MTYwODY3NTJfMDA5/screen-0.jpg?fakeurl=1&type=.jpg" art="캐시타운1" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8yXzE1MTYwODY3NTVfMDc5/screen-2.jpg?fakeurl=1&type=.jpg" art="캐시타운2" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8xXzE1MTYwODY3NTVfMDcy/screen-1.jpg?fakeurl=1&type=.jpg" art="캐시타운3" width=150>
@@ -148,6 +158,8 @@
 	- 사용패턴 : Mvc
 * 개발 기간 : 2017.10 ~ 2018.02
 * 현재 상태 : 서비스 중단
+* 특이 사항 : 
+- 안드로이드 개발은 둘째 치고, 서버 개발이 매우 서툴렀기 때문에 보안이나 DB관리, 부하면 에서 많이 부족한 점이 있었음 .
 
 ## 안녕,혼밥 ( 인카코 커뮤니케이션즈)
 <img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8wXzE1Mzk0MDI2NjNfMDI1/screen-0.jpg?h=355&fakeurl=1&type=.jpg" art="안녕혼밥1" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8xXzE1Mzk0MDI2NjVfMDQx/screen-1.jpg?h=355&fakeurl=1&type=.jpg" art="안녕혼밥2" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8zXzE1Mzk0MDI2NzFfMDYw/screen-3.jpg?h=355&fakeurl=1&type=.jpg" art="강카 이미지1" width=150>
@@ -180,6 +192,8 @@
 	- 사용 패턴 : Mvc
 * 개발 기간 : 2017.06 ~ 2017.09
 * 현재 상태 : DB의 수집이 어려운 이유로 서비스 중단 함 ( 업주들의 협조를 얻기가 굉장히 어려웠음. )
+* 특이 사항 : 
+- 최초 안드로이드 앱 개발을 진행했음.
 
 # 보유 기술 및 사용도구
 - Git, GIthub, Gitlab, Bitbuket, SourceTree, jd-Gui, Slack, Trello, Monday, OneDrive 등 
