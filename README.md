@@ -18,7 +18,7 @@
 # 경력 기술
 
 *  파비
-    - 안드로이드 개발 주 담당
+    - 메인 안드로이드 개발 담당
     - 약 3가지의 부모앱1, 위성앱2 개발
     - 부모 , 위성앱들의 각 상호연동을 위한 메인 관리 앱 - 파비캐시
     - 유머 커뮤니앱 - 파비 펀 
@@ -26,21 +26,18 @@
     - 근무 기간 : 2019.03 ~ 현재
     
 * 테이스트 샵 
-    - 안드로이드 개발 주 담당
+    - 메인 안드로이드 개발 담당
     - 쿠킹박스 서비스를 담당하는 O2O 앱
     - 근무 기간 : 2018.06 ~ 2018.12 
 
 * 인카코커뮤니케이션즈 
-    - 안드로이드 / 서버 / 인사 담당
+    - 메인 (안드로이드 / 서버 ), 인사 담당
     - 리워드앱 개발 및 서버 개발
     - 인력 채용 및 팀원 관리 업무
-    - 근무 기간 : 2017.10 ~ 2019.02
+    - 근무 기간 : 2017.10 ~ 2018.02
     
     
 # 프로젝트 기술
-
-
-
 
 ## 파비캐시 (파비) 
 <img src="https://rgo4.com/files/attach/images/411209/665/147/039/d644019dacdde6eff3f67abffcdb9c8e.jpg" alt=" 파비캐시1" width=150/><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b3/84/53/b384531d-396f-ab6b-9849-4eb4b49eeeea/pr_source.png/300x0w.png" alt=" 파비스타일1" width=150/><img src="https://blog.pabii.co.kr/wp-content/uploads/shoppinglist.png" alt=" 파비스타일1" width=350/>
@@ -140,6 +137,23 @@
 * 현재 상태: 서비스 중단 -> Web을 주 타겟으로 사업 변경 
 * 특이 사항: 특정 페이지는 Data, View Layer가 모두 동적으로 변하는 것을 기획에서 요구했기 때문에, XML로 지정한 뷰를 사용하는 것이 아닌 오로지 모두 동적으로 코드로 뷰를 다루는 페이지를 만든 적이 있음.
 
+## 안녕,혼밥 ( 인카코 커뮤니케이션즈)
+<img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8wXzE1Mzk0MDI2NjNfMDI1/screen-0.jpg?h=355&fakeurl=1&type=.jpg" art="안녕혼밥1" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8xXzE1Mzk0MDI2NjVfMDQx/screen-1.jpg?h=355&fakeurl=1&type=.jpg" art="안녕혼밥2" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8zXzE1Mzk0MDI2NzFfMDYw/screen-3.jpg?h=355&fakeurl=1&type=.jpg" art="강카 이미지1" width=150>
+
+`앱의 주요 기능 명세`
+* 혼밥족의 매칭 기능을 기반으로 한 앱
+* 클라이언트 / 서버 동시 개발
+* PHP,Java 소켓서버 , Firebase RealtimeDb를 혼용 함
+* 최초 자바를 통해 소켓서버를 개발하고자 했으나, 트래픽 및 설계, 보안 등 여러가지 측면을 감당할 수 없다 판단해 Firebase로 채팅서버를 개발함
+* 개발 도중 퇴사.
+* 사용 기술
+	- 언어 : Java , PHP, 
+	- 라이브러리 : Retrofit2, FireBaseSdk, CodeIgniter(PHP), Glide, Supported Android 등
+	- 사용 패턴 : Mvc
+* 개발 기간 : 2018.01 ~ 2018 ~02
+* 현재 상태 : 아마도 개발 단계에서 종료 된 것으로 보임
+
+
 ## 캐시타운(인카코 커뮤니케이션즈)
 <img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8wXzE1MTYwODY3NTJfMDA5/screen-0.jpg?fakeurl=1&type=.jpg" art="캐시타운1" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8yXzE1MTYwODY3NTVfMDc5/screen-2.jpg?fakeurl=1&type=.jpg" art="캐시타운2" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uY2FzaHRvd24uYXBwX3NjcmVlbl8xXzE1MTYwODY3NTVfMDcy/screen-1.jpg?fakeurl=1&type=.jpg" art="캐시타운3" width=150>
 
@@ -160,22 +174,6 @@
 * 현재 상태 : 서비스 중단
 * 특이 사항 : 
 - 안드로이드 개발은 둘째 치고, 서버 개발이 매우 서툴렀기 때문에 보안이나 DB관리, 부하면 에서 많이 부족한 점이 있었음 .
-
-## 안녕,혼밥 ( 인카코 커뮤니케이션즈)
-<img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8wXzE1Mzk0MDI2NjNfMDI1/screen-0.jpg?h=355&fakeurl=1&type=.jpg" art="안녕혼밥1" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8xXzE1Mzk0MDI2NjVfMDQx/screen-1.jpg?h=355&fakeurl=1&type=.jpg" art="안녕혼밥2" width=150><img src="https://image.winudf.com/v2/image/a3IuY28uaW5jYWNvLm5ld2hvbmJhcF8xX3NjcmVlbl8zXzE1Mzk0MDI2NzFfMDYw/screen-3.jpg?h=355&fakeurl=1&type=.jpg" art="강카 이미지1" width=150>
-
-`앱의 주요 기능 명세`
-* 혼밥족의 매칭 기능을 기반으로 한 앱
-* 클라이언트 / 서버 동시 개발
-* PHP,Java 소켓서버 , Firebase RealtimeDb를 혼용 함
-* 최초 자바를 통해 소켓서버를 개발하고자 했으나, 트래픽 및 설계, 보안 등 여러가지 측면을 감당할 수 없다 판단해 Firebase로 채팅서버를 개발함
-* 개발 도중 퇴사.
-* 사용 기술
-	- 언어 : Java , PHP, 
-	- 라이브러리 : Retrofit2, FireBaseSdk, CodeIgniter(PHP), Glide, Supported Android 등
-	- 사용 패턴 : Mvc
-* 개발 기간 : 2018.01 ~ 2018 ~02
-* 현재 상태 : 아마도 개발 단계에서 종료 된 것으로 보임
 
 ## 강카 (개인)
 <img src="https://lh3.googleusercontent.com/QRVrX0Wo3tqyDF606v1uMxMP8YuuSvNREbyD3kg-qlBHgPZjOKpo2MHvKXoSXZ_Ao7U=h150-rw" art="강카 이미지1" width=150><img src="https://lh3.googleusercontent.com/60UoGGyU3awcXtUMCfWgVW6mOByGDFXG6Z7iNyVMY3J20Of0jLbCAGwZRGv1laRfSNw=h150-rw" art="강카 이미지2" width=150><img src="https://lh3.googleusercontent.com/v26gp4R0ow5JmpZU3y9UZ8lExWorbrPQA7S-7EL1AbGRdKgvLUYCofrsv5gzTLCtFyA=h150-rw" art="강카 이미지1" width=150><img src="https://lh3.googleusercontent.com/g6XcFxRDqgXe9lv1EsTwkgJ_hrNcVYVvS3tF2yp67ZQX6LUCk3NLakvrpl40RtJT3F3y=h150-rw" art="강카 이미지1" width=150>
@@ -220,8 +218,11 @@
 * 대학 생활 중 음악 동아리 회장 ( 약 40명 이상의 인원관리 경험 )
 
 # 학력
-* 강원대학교 컴퓨터 정보통신 공학 전공 - 2011.03 ~ 2019.08
+* 강원대학교 컴퓨터 정보통신 공학 전공 - 2011.03 ~ 2018.08
 * 동국대학교 사범대학 부속 고등학교 이과 졸업 - 2008 ~ 2011.02
+
+# 자격증
+* 정보처리기사 ( 2018.05 )
 
 # 더 보기
 * 블로그 : https://ppizil.tistory.com/
